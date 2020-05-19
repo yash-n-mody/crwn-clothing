@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import CollectionPreview from '../../components/collection-preview/collection-preview.component';
 
 import './shop.styles.scss';
